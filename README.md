@@ -1,7 +1,5 @@
 # ETL Pipeline Fashion Studio Data
 
-## Deskripsi Proyek
-
 Proyek ini merupakan implementasi **ETL (Extract, Transform, Load) Pipeline** menggunakan Python untuk mengumpulkan data produk fashion dari website Fashion Studio, membersihkan data yang diperoleh, dan menyimpannya ke dalam format CSV.
 
 Pipeline dibangun secara modular dengan memisahkan proses:
