@@ -118,7 +118,7 @@ git clone https://github.com/rezaaliyya/fashion-studio-etl-pipeline.git
 Masuk ke folder project:
 
 ```bash
-cd repository-name
+cd fashion-studio-etl-pipeline
 ```
 
 Install dependencies:
