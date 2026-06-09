@@ -112,7 +112,7 @@ fashion_studio_data.csv
 Clone repository:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/rezaaliyya/fashion-studio-etl-pipeline.git
 ```
 
 Masuk ke folder project:
