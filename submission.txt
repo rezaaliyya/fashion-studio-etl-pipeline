@@ -1,0 +1,12 @@
+# Cara Menjalankan Skrip ETL Pipeline
+python main.py
+
+# Cara Menjalankan Unit Test
+pytest
+
+# Cara Menjalankan Test Coverage
+pytest --cov=utils tests
+
+# Output Data
+Data hasil ETL akan disimpan dalam file:
+fashion_clean.csv
